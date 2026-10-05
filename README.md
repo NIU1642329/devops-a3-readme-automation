@@ -18,7 +18,6 @@ events from the GitHub API and rewrites the section below. Tracked in issue #1.
 10. 🌱 Created branch `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
 
 <sub>Last updated: 2026-10-05 15:20 UTC by the update-readme workflow</sub>
-<!--END_SECTION:activity-->
 
 ## ⚙️ How it works
 
