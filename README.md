@@ -1,14 +1,23 @@
 # DevOps A3 — Auto-updating README
 
-[![Update README](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/update-readme.yml/badge.svg)](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/update-readme.yml)
-[![Validate README](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/validate-readme.yml/badge.svg)](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/validate-readme.yml)
-
 This README updates itself: a GitHub Actions workflow reads the latest repository
 events from the GitHub API and rewrites the section below. Tracked in issue #1.
 
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ⬆️ Pushed [`ef4982e`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/ef4982e) to `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05
+2. ⬆️ Pushed [`85bcd66`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/85bcd66) to `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05
+3. 🔀 Merged PR [#10](https://github.com/NIU1642329/devops-a3-readme-automation/pull/10) by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05
+4. 🔀 Opened PR [#10](https://github.com/NIU1642329/devops-a3-readme-automation/pull/10) by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05
+5. 🌱 Created branch `1-auto-update-readme` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
+6. 📌 Opened issue [#9](https://github.com/NIU1642329/devops-a3-readme-automation/issues/9): Verification, screenshots, report by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
+7. 📌 Opened issue [#8](https://github.com/NIU1642329/devops-a3-readme-automation/issues/8): PR, review, merge by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
+8. 📌 Opened issue [#7](https://github.com/NIU1642329/devops-a3-readme-automation/issues/7): Validation + preview workflows, Dependabot by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
+9. 📌 Opened issue [#6](https://github.com/NIU1642329/devops-a3-readme-automation/issues/6): 'update-readme.yml' workflow by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
+10. 🌱 Created branch `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-04
+
+<sub>Last updated: 2026-10-05 15:20 UTC by the update-readme workflow</sub>
 <!--END_SECTION:activity-->
 
 ## ⚙️ How it works
