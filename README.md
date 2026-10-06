@@ -1,5 +1,8 @@
 # DevOps A3 — Auto-updating README
 
+   [![Update README](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/update-readme.yml/badge.svg)](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/update-readme.yml)
+   [![Validate README](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/validate-readme.yml/badge.svg)](https://github.com/NIU1642329/devops-a3-readme-automation/actions/workflows/validate-readme.yml)
+   
 This README updates itself: a GitHub Actions workflow reads the latest repository
 events from the GitHub API and rewrites the section below. Tracked in issue #1.
 
