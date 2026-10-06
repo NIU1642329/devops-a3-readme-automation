@@ -1,8 +1,43 @@
 {
   "repos": {
     "NIU1642329/devops-a3-readme-automation": {
-      "etag": "\"7d97b1d7a5f2aff8f0b5bfcf58847f74aef5dbe55a3ece5058ba9b93d05cbb35\"",
+      "etag": "\"652fa40886ebf513f8ad87b718d2e0b8c3f1cdfebf263927144069409ccb0ed1\"",
       "items": [
+        {
+          "id": "16503055069",
+          "at": "2026-10-06T01:27:01Z",
+          "line": "📌 Closed issue [#8](https://github.com/NIU1642329/devops-a3-readme-automation/issues/8): PR, review, merge by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
+        {
+          "id": "16503054762",
+          "at": "2026-10-06T01:27:00Z",
+          "line": "📌 Closed issue [#7](https://github.com/NIU1642329/devops-a3-readme-automation/issues/7): Validation + preview workflows, Dependabot by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
+        {
+          "id": "16503054435",
+          "at": "2026-10-06T01:27:00Z",
+          "line": "📌 Closed issue [#6](https://github.com/NIU1642329/devops-a3-readme-automation/issues/6): 'update-readme.yml' workflow by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
+        {
+          "id": "16503054119",
+          "at": "2026-10-06T01:27:00Z",
+          "line": "📌 Closed issue [#5](https://github.com/NIU1642329/devops-a3-readme-automation/issues/5): Generator script (API, cache, backoff) by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
+        {
+          "id": "16503053838",
+          "at": "2026-10-06T01:26:59Z",
+          "line": "📌 Closed issue [#4](https://github.com/NIU1642329/devops-a3-readme-automation/issues/4): Fine-grained token + 'REPO_TOKEN' secret by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
+        {
+          "id": "16503053445",
+          "at": "2026-10-06T01:26:59Z",
+          "line": "📌 Closed issue [#3](https://github.com/NIU1642329/devops-a3-readme-automation/issues/3): README template with markers by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
+        {
+          "id": "16503053141",
+          "at": "2026-10-06T01:26:58Z",
+          "line": "📌 Closed issue [#2](https://github.com/NIU1642329/devops-a3-readme-automation/issues/2): Planning: project board, issue, branch by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-06"
+        },
         {
           "id": "23103340596",
           "at": "2026-10-05T15:38:28Z",
@@ -17,41 +52,6 @@
           "id": "23101107460",
           "at": "2026-10-05T15:18:13Z",
           "line": "⬆️ Pushed [`d761bed`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/d761bed) to `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05"
-        },
-        {
-          "id": "23100916552",
-          "at": "2026-10-05T15:37:20Z",
-          "line": "⬆️ Pushed [`0b6b1b6`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/0b6b1b6) to `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05"
-        },
-        {
-          "id": "23100541551",
-          "at": "2026-10-05T15:13:00Z",
-          "line": "⬆️ Pushed [`8a8cb39`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/8a8cb39) to `1-auto-update-readme` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05"
-        },
-        {
-          "id": "23098570957",
-          "at": "2026-10-05T15:15:15Z",
-          "line": "⬆️ Pushed [`1cb6f42`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/1cb6f42) to `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05"
-        },
-        {
-          "id": "23086905312",
-          "at": "2026-10-05T15:14:07Z",
-          "line": "⬆️ Pushed [`c8e8cdc`](https://github.com/NIU1642329/devops-a3-readme-automation/commit/c8e8cdc) to `main` by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05"
-        },
-        {
-          "id": "16468785252",
-          "at": "2026-10-05T16:15:08Z",
-          "line": "📌 Closed issue [#9](https://github.com/NIU1642329/devops-a3-readme-automation/issues/9): Verification, screenshots, report by [@NIU1642329](https://github.com/NIU1642329) · 2026-10-05"
-        },
-        {
-          "id": "16467662100",
-          "at": "2026-10-05T16:00:29Z",
-          "line": "🔀 Labeled PR [#13](https://github.com/NIU1642329/devops-a3-readme-automation/pull/13) by [@dependabot[bot]](https://github.com/dependabot[bot]) · 2026-10-05"
-        },
-        {
-          "id": "16467661757",
-          "at": "2026-10-05T16:00:29Z",
-          "line": "🔀 Labeled PR [#13](https://github.com/NIU1642329/devops-a3-readme-automation/pull/13) by [@dependabot[bot]](https://github.com/dependabot[bot]) · 2026-10-05"
         }
       ]
     }
